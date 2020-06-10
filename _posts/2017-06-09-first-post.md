@@ -3,7 +3,8 @@ layout: post
 title: "Planetariums"
 date: 2014-04-18 11:30:00 +0800
 ---
-Welcome to my blog about Planetariums
+
+Welcome to my blog about Planetariums!!!
 
 Here you will learn about a great place you can go to for a date, trip or just to have fun.
 
