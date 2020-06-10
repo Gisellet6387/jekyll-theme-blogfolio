@@ -1,16 +1,16 @@
 # Site settings
-name: name
-email: email
+name: Giselle
+email: gisellet6387@hstat.org
 url: url
 description: "A blog and a portfolio"
-author: "author"
+author: "Giselle"
 title: "BlogFolio"
 permalink: pretty
 baseurl: /jekyll-theme-blogfolio
 
 # social
 github:
-  username: username
+  username: gisellet6387
 
 twitter:
   username: username
